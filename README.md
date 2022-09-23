@@ -7,6 +7,6 @@
 🌿 I work on iOS Swift application development.
 
 🌱 How to reach me:  ilaydadora@gmail.com
-                     https://www.linkedin.com/in/ilayda-metin-b270951b1/
+                    
                      
 
