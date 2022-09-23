@@ -4,9 +4,9 @@
  
  Hi there , I'm İlayda 👩🏽‍💻 
  
-🌿 I work on iOS Swift application development.
+🌟 I work on iOS Swift application development.
 
-🌱 How to reach me:  ilaydadora@gmail.com
+🌟 How to reach me:  ilaydadora@gmail.com
                     
                      
 
