@@ -1,11 +1,7 @@
-### Hi there , I'm İlayda 👩🏽‍💻 
+ Hi there , I'm İlayda 👩🏽‍💻 
 
-
-
-Here are some ideas to get you started:
-
--  I work on iOS Swift application development.
--  How to reach me: ilaydadora@gmail.com
+🌿 I work on iOS Swift application development.
+🌱 How to reach me: ilaydadora@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=purple&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=green&link=link)](link) 
