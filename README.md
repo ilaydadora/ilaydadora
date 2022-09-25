@@ -1,12 +1,11 @@
  
- 
+ <iframe src="https://giphy.com/embed/bfrlODgSLqXxS" width="371" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g1ft3d-art-glitch-apple-bfrlODgSLqXxS">via GIPHY</a></p>
                                                                                 
   Hi there , I'm İlayda 👩🏽‍💻
     
 🎓 Graduated in Electrical Electronics Engineering at DU and Erciyes University.
 
-👩‍💻 I work on iOS Swift application development.      <img src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif"> 
-
+👩‍💻 I work on iOS Swift application development.      
 🌟 How to reach me: 
 
 [![name](https://user-images.githubusercontent.com/98653691/190926903-a5ba96e8-6253-4b18-b2f5-860f2ad945be.png)](https://www.linkedin.com/in/ilayda-metin-b270951b1/)
