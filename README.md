@@ -1,10 +1,9 @@
  
- <iframe src="https://giphy.com/embed/bfrlODgSLqXxS" width="371" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g1ft3d-art-glitch-apple-bfrlODgSLqXxS">via GIPHY</a></p>
+<"https://giphy.com/gifs/g1ft3d-art-glitch-apple-bfrlODgSLqXxS">
                                                                                 
   Hi there , I'm İlayda 👩🏽‍💻
     
 🎓 Graduated in Electrical Electronics Engineering at DU and Erciyes University.
-
 👩‍💻 I work on iOS Swift application development.      
 🌟 How to reach me: 
 
