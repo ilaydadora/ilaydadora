@@ -1,4 +1,5 @@
-  https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif                                                                           
+ 
+ 
   Hi there , I'm İlayda 👩🏽‍💻
     
 🎓 Graduated in Electrical Electronics Engineering at DU and Erciyes University.
