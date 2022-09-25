@@ -3,7 +3,9 @@
   Hi there , I'm İlayda 👩🏽‍💻
     
 🎓 Graduated in Electrical Electronics Engineering at DU and Erciyes University.
-👩‍💻 I work on iOS Swift application development.      
+
+👩‍💻 I work on iOS Swift application development.     
+
 🌟 How to reach me: 
 
 [![name](https://user-images.githubusercontent.com/98653691/190926903-a5ba96e8-6253-4b18-b2f5-860f2ad945be.png)](https://www.linkedin.com/in/ilayda-metin-b270951b1/)
