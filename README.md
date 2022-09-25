@@ -1,6 +1,4 @@
- 
-<"https://giphy.com/gifs/g1ft3d-art-glitch-apple-bfrlODgSLqXxS">
-                                                                                
+  https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif                                                                           
   Hi there , I'm İlayda 👩🏽‍💻
     
 🎓 Graduated in Electrical Electronics Engineering at DU and Erciyes University.
