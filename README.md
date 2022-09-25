@@ -1,6 +1,6 @@
  
  
-  Hi there , I'm İlayda 👩🏽‍💻
+   Hi there , I'm İlayda 👩🏽‍💻
     
 🎓 Graduated in Electrical Electronics Engineering at DU and Erciyes University.
 
